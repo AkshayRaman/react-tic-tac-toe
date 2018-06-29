@@ -1,6 +1,6 @@
 # react-tic-tac-toe
 Intro to React with improvements<br>
-https://reactjs.org/tutorial/tutorial.html
+https://reactjs.org/tutorial/tutorial.html#wrapping-up
 
 
     ✓ Display the location for each move in the format (col, row) in the move history list.
